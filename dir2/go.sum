@@ -1,2 +1,4 @@
 github.com/sgg/gomod-subdir-repro/dir1 v0.0.0-20240521184937-35dc00adf5cc h1:y4gBRYazkmOeTmZuQWyVA7iHYmh6r8yL34jVMhtWVkA=
 github.com/sgg/gomod-subdir-repro/dir1 v0.0.0-20240521184937-35dc00adf5cc/go.mod h1:u3TOdlIxdIXgMLVlyrLpVS151nHyAPQgbK4DgB2KG9E=
+github.com/sgg/gomod-subdir-repro/dir1 v0.0.0-20240521185229-294a5bfa1818 h1:8wAK/cn+K7LeLHnrVJGrSVyqCF/Oirl0IrxEjL9RVzw=
+github.com/sgg/gomod-subdir-repro/dir1 v0.0.0-20240521185229-294a5bfa1818/go.mod h1:u3TOdlIxdIXgMLVlyrLpVS151nHyAPQgbK4DgB2KG9E=
